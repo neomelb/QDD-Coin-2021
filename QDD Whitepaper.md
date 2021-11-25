@@ -80,7 +80,7 @@ $QDD will be available on Pancakeswap upon agreement to be made with Lawrence Qi
 
 ### 3.3 Phase 3: QDD NFTs
 
-Limited QDD NFTs will be minted once Lawrence's father's knowledge is up-to-date.
+Limited QDD NFTs will be minted once the knowledge of Lawrence's father is up-to-date.
 
 ## 4. Disclaimers
 

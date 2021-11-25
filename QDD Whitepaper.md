@@ -6,7 +6,7 @@ Version 1.0
 
 2021 December
 
-![image-20211126005046604](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20211126005046604.png)
+![munchlax](https://github.com/neomelb/QDD-Coin-2021/blob/main/munchlax.jpg)
 
 ## 1. Introduction
 
@@ -38,7 +38,7 @@ Pancake Swap is another greatly unique feature of the Binance SmartChain, as use
 
 ### 2.4 Transaction Model
 
-![image-20211125174709984](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20211125174709984.png)
+![TM](https://github.com/neomelb/QDD-Coin-2021/blob/main/TM.png)
 
 ### 2.5 Token Values
 

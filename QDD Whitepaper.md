@@ -40,6 +40,15 @@ Pancake Swap is another greatly unique feature of the Binance SmartChain, as use
 
 ![TM](https://github.com/neomelb/QDD-Coin-2021/blob/main/TM.png)
 
+#### 2.4.1 Auto-farming
+2% of all transaction fees are distributed to holders. You will see a wealth accumulation in your wallet at the minute you start holding.
+
+#### 2.4.2 Continuously Rising Price Floor
+2% of every transaction fees is locked as liquidity in PancakeSwap QDD/BNB pool, creating an ever rising price floor.
+
+#### 2.4.3 Whale Shock Safety
+No transaction can involve more than 50k $QDD
+
 ### 2.5 Token Values
 
 $QDD is a family & friends based and family & friends driven token, guaranteeing complete and utter transparency through every step. We value our holders and our steadfast user base the same way we value our family. However, this means that QDD is going to work like a family, so each party is going to have some responsibility.

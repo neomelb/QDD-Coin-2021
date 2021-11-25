@@ -47,7 +47,7 @@ Pancake Swap is another greatly unique feature of the Binance SmartChain, as use
 2% of every transaction fees is locked as liquidity in PancakeSwap QDD/BNB pool, creating an ever rising price floor.
 
 #### 2.4.3 Whale Shock Safety
-No transaction can involve more than 50k $QDD
+No transaction can involve more than 1% of total circulation of $QDD
 
 ### 2.5 Token Values
 

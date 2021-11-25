@@ -99,7 +99,7 @@ Every reader of this whitepaper agrees to arbitrate any dispute arising from or 
 
 ### 4.4 Tax Compliance
 
-$QDD cannot guarantee this currency will comply with the tax laws of any nation, so be sure to do your due diligence prior to purchase.
+$QDD cannot guarantee this cryptocurrency will comply with the tax laws of your local government jurisdiction, so be sure to do your due diligence prior to purchase.
 
 ### 4.5 Warranty
 

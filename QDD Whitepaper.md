@@ -6,7 +6,7 @@ Version 1.0
 
 2021 December
 
-![image-20211126005046604](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20211126005046604.png)
+![munchlax](https://github.com/neomelb/QDD-Coin-2021/blob/main/munchlax.jpg)
 
 ## 1. Introduction
 
@@ -38,7 +38,7 @@ Pancake Swap is another greatly unique feature of the Binance SmartChain, as use
 
 ### 2.4 Transaction Model
 
-![image-20211125174709984](C:\Users\Neo\AppData\Roaming\Typora\typora-user-images\image-20211125174709984.png)
+![TM](https://github.com/neomelb/QDD-Coin-2021/blob/main/TM.png)
 
 ### 2.5 Token Values
 
@@ -67,7 +67,8 @@ $QDD will be Once the marketed by Lawrence's father, Neo, to family and friends 
 
 #### 3.1.3 Circulation and Adoption
 
-Limited QDD token will be distributed to family and friends via Airdrop.  
+Limited QDD token will be distributed to family and friends via Airdrop.
+Airdrop will be available for a limited time via www.qddtoken.com
 
 #### 3.1.4 Community Health
 
@@ -80,7 +81,7 @@ $QDD will be available on Pancakeswap upon agreement to be made with Lawrence Qi
 
 ### 3.3 Phase 3: QDD NFTs
 
-Limited QDD NFTs will be minted once Lawrence's father's knowledge is up-to-date.
+Limited QDD NFTs will be minted once the knowledge of Lawrence's father is up-to-date.
 
 ## 4. Disclaimers
 
@@ -98,7 +99,7 @@ Every reader of this whitepaper agrees to arbitrate any dispute arising from or 
 
 ### 4.4 Tax Compliance
 
-$QDD cannot guarantee this currency will comply with the tax laws of any nation, so be sure to do your due diligence prior to purchase.
+$QDD cannot guarantee this cryptocurrency will comply with the tax laws of your local government jurisdiction, so be sure to do your due diligence prior to purchase.
 
 ### 4.5 Warranty
 

@@ -67,7 +67,8 @@ $QDD will be Once the marketed by Lawrence's father, Neo, to family and friends 
 
 #### 3.1.3 Circulation and Adoption
 
-Limited QDD token will be distributed to family and friends via Airdrop.  
+Limited QDD token will be distributed to family and friends via Airdrop.
+Airdrop will be available for a limited time via www.qddtoken.com
 
 #### 3.1.4 Community Health
 

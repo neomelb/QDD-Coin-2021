@@ -2,7 +2,7 @@
 
 A token remarks Lawrence Qian's Birthday Celebration
 
-Version 1.0
+Version 1.0.1
 
 2021 December
 

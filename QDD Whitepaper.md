@@ -6,7 +6,7 @@ Version 1.0
 
 2021 December
 
-![munchlax](https://github.com/neomelb/QDD-Coin-2021/blob/main/munchlax.jpg)
+![munchlax](https://github.com/neomelb/QDD-Coin-2021/blob/main/QDD.png)
 
 ## 1. Introduction
 

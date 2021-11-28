@@ -24,7 +24,7 @@ $QDD token is a BEP20 coin rooting from the Binance Smart Chain platform with in
 
 Family and friend will receive airdrops to celebrate Lawrence's birthday. There will be no private sale or ICO  at this stage. 
 
-$QDD will be available on PancakeSwap to obtain.  2% on all transactions with a redistribution of 1% to all holders and 1% towards liquidity.
+$QDD will be available on PancakeSwap to obtain.  4% on all transactions with a redistribution of 2% to all holders and 2% towards liquidity.
 
 ### 2.2 Binance SmartChain
 
